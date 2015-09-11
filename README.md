@@ -12,5 +12,8 @@ from the developer's console. While it's great for quickly testing and
 prototyping an idea, it is not secure. This, the Insecure package has been
 removed with `meteor remove insecure`.
 
+## Iron:Router
+We are using iron:router as your router.
+
 ## Resources
 Quick refreshers: http://practical.meteor.com/
