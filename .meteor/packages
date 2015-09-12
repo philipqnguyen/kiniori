@@ -7,3 +7,5 @@
 meteor-platform
 iron:router
 twbs:bootstrap
+sanjo:jasmine
+velocity:html-reporter
