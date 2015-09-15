@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "url-valid": {
+      "version": "0.3.0"
+    },
+    "valid-url": {
+      "version": "1.0.9"
+    }
+  }
+}

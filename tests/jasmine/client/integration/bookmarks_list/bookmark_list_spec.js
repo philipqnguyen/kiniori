@@ -1,4 +1,4 @@
-describe('Bookmark List', function () {
+describe('As a user entering a URL on the bookmarksList page', function () {
   beforeEach(function (done) {
     Router.go('/');
     Tracker.afterFlush(done);
@@ -16,16 +16,3 @@ describe('Bookmark List', function () {
     expect(newBookmarkCount).toEqual(oldBookmarkCount + 1);
   });
 });
-
-// describe('My Spec', function () {
-//   beforeEach(function (done) {
-//     Router.go('/myPage');
-//     Tracker.afterFlush(done);
-//   });
-
-//   beforeEach(waitForRouter);
-
-//   it('should do something', function () {
-//     // Your test
-//   });
-// })
