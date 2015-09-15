@@ -9,3 +9,7 @@ iron:router
 twbs:bootstrap
 sanjo:jasmine
 velocity:html-reporter
+meteorhacks:npm
+
+
+npm-container
